@@ -1,4 +1,6 @@
-#include main.c
+#include holberton.h
+#include main.h
+
 
 
 /**
