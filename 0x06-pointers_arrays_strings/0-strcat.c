@@ -2,7 +2,7 @@
  * File: 0-strcat.c
  * Auth: Brennan D Baraban
  */
-#include main.h
+#include ^~~~
 /**
  * strcat - Concatenates the string pointed to by @src, including the terminating
  *          null byte, to the end of the string pointed to by @dest.
